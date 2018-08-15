@@ -1,0 +1,82 @@
+$ git  log --stat
+commit 92ee329eef48ac63dbc83063044aff8b6efc1a38 (HEAD -> master)
+Author: Victor Perez <victorvirtual@gmail.com>
+Date:   Tue Aug 14 20:10:57 2018 -0400
+
+    index agregando parrafo
+
+ index.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 73204dfc05e86344389da217be8dc2f7a47261e6
+Author: Victor Perez <victorvirtual@gmail.com>
+Date:   Tue Aug 14 20:09:03 2018 -0400
+
+    creado archivo principal
+
+ index.html | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit d4ae59efbd0a020df13690b2b467b0a9f8df9a1b
+Author: Victor Perez <victorvirtual@gmail.com>
+Date:   Tue Aug 14 20:08:13 2018 -0400
+
+    archivos  img css js movidos a assets
+:...skipping...
+commit 92ee329eef48ac63dbc83063044aff8b6efc1a38 (HEAD -> master)
+Author: Victor Perez <victorvirtual@gmail.com>
+Date:   Tue Aug 14 20:10:57 2018 -0400
+
+    index agregando parrafo
+
+ index.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 73204dfc05e86344389da217be8dc2f7a47261e6
+Author: Victor Perez <victorvirtual@gmail.com>
+Date:   Tue Aug 14 20:09:03 2018 -0400
+
+    creado archivo principal
+
+ index.html | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit d4ae59efbd0a020df13690b2b467b0a9f8df9a1b
+Author: Victor Perez <victorvirtual@gmail.com>
+Date:   Tue Aug 14 20:08:13 2018 -0400
+
+    archivos  img css js movidos a assets
+
+ {css => assets/css}/styles.css |   0
+ {img => assets/img}/img1.jpg   | Bin
+ {img => assets/img}/img2.jpg   | Bin
+ {js => assets/js}/main.js      |   0
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 0060aa06c19ae63ccbb40d77a0d2ed03001fa9a5
+Author: Victor Perez <victorvirtual@gmail.com>
+Date:   Tue Aug 14 20:05:15 2018 -0400
+
+    cambiado nombre de imagenes a imgs
+
+ {imagenes => img}/img1.jpg | Bin
+ {imagenes => img}/img2.jpg | Bin
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit b4b8d7ba3fc6dc8159cbcdd8bf33d0eeb51a85ff
+Author: Victor Perez <victorvirtual@gmail.com>
+Date:   Tue Aug 14 20:04:02 2018 -0400
+
+    agregando imagen 1
+
+ imagenes/img1.jpg | Bin 0 -> 5704 bytes
+ imagenes/img2.jpg | Bin 0 -> 21642 bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 42e3bbb408cc8ad99568a5c324e785963f7765fc
+Author: Victor Perez <victorvirtual@gmail.com>
+Date:   Tue Aug 14 20:00:17 2018 -0400
+
+    archivos creados styles main y folder imagenes
+
+ css/styles.css | 0
